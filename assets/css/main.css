@@ -2564,7 +2564,7 @@ input, select, textarea {
 
 /* Tiles */
 
-	.tiles {
+	/* .tiles {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2825,7 +2825,7 @@ input, select, textarea {
 					margin: 1.25em 0 0 0;
 				}
 
-		}
+		} */
 
 /* Header */
 
